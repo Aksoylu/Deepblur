@@ -1,2 +1,2 @@
 # deepblur
-Deep Learnin Based Background Blur (Using DeepLab &amp; Tensorflow)
+Deep Learning Based Background Blur (Using DeepLab &amp; Tensorflow)
