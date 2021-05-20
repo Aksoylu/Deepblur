@@ -1,2 +1,4 @@
 # Deep Blur
-Deep Learning Based Background Blur (Using DeepLab &amp; Tensorflow)
+Deep Learning Based Background Blur (Using DeepLab Model With Keras &amp; Tensorflow)
+
+![alt text](showoff.gif "Title")
